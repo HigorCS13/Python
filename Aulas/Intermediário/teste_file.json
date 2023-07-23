@@ -1,0 +1,24 @@
+{
+ "nome": "Higor",
+ "sobrenome": "Cunha Silva",
+ "idade": 33,
+ "altura": 1.85,
+ "endereço": [
+  {
+   "rua": "lugar1",
+   "numero:": 123
+  },
+  {
+   "rua": "lugar2",
+   "numero:": 456
+  }
+ ],
+ "números preferidos": [
+  0,
+  5,
+  7,
+  13
+ ],
+ "Dev": true,
+ "nada": null
+}
